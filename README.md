@@ -50,5 +50,5 @@ http://localhost:3000
 host in enter your postgres ip address. using this command check your ip address
 
 ```bash
-docker inspect gogs-docker-compose_postgres_1 | grep IPAddress
+docker inspect gogs-docker-compose-postgres-1 | grep IPAddress
 ```
