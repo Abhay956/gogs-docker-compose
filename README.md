@@ -26,7 +26,7 @@ sudo yum install docker-compose-plugin
 Clone the project
 
 ```bash
-git clone git clone https://github.com/Abhay956/gogs-docker-compose.git
+git clone https://github.com/Abhay956/gogs-docker-compose.git
 cd gogs-docker-compose/
 ```
 
